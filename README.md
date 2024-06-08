@@ -1,9 +1,10 @@
 # 📝To-Do List
 A responsive To-Do list app built with React and Redux Toolkit, designed for efficient state management. Features include task creation, deletion, and completion tracking, ensuring seamless user experience across devices.
 # Live Preview
-The To-Do App is live and ready for you to explore! Visit [To-Do List](https://fyle-assignment-pj.netlify.app/)
+The To-Do App is live and ready for you to explore! Visit [To-Do List](https://to-do-list-pjs.netlify.app/)
 # App Overview
-![Screen_Shot_2021-08-10_at_7 16 53_PM](https://github.com/JadhavPrasad21/Fyle-Assignment/assets/86917788/edaf57c8-cc8d-42f4-9ff5-9aae89e92cee)
+![Screenshot 2024-06-08 215838](https://github.com/JadhavPrasad21/QuadB-Tech-Assignment/assets/86917788/e86a5447-ef42-4512-9205-fc429884ddc0)
+
 
 
 # Features
